@@ -13,9 +13,12 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+  "deploy": " portfolio-project -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  
   },
   "eslintConfig": {
     "extends": [
@@ -36,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+  "homepage": "http://edehemma09.github.io/portfolio-project"
   }
 }
