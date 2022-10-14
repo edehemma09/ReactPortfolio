@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.fdfd6028.css",
+    "main.js": "/ReactPortfolio/static/js/main.21be084f.js",
+    "static/media/aguaDeLuz.png": "/ReactPortfolio/static/media/aguaDeLuz.467713cf149b04296aa1.png",
+    "static/media/haulage.png": "/ReactPortfolio/static/media/haulage.2bd176df5d63fc3d2b0b.png",
+    "static/media/orphanage.png": "/ReactPortfolio/static/media/orphanage.2a57c47bf5668b3d343d.png",
+    "static/media/EdehEmma.png": "/ReactPortfolio/static/media/EdehEmma.657597d5d2bae4fddc31.png",
+    "static/media/todolist.png": "/ReactPortfolio/static/media/todolist.04db867b1ada07cbc6dc.png",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.fdfd6028.css.map": "/ReactPortfolio/static/css/main.fdfd6028.css.map",
+    "main.21be084f.js.map": "/ReactPortfolio/static/js/main.21be084f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdfd6028.css",
+    "static/js/main.21be084f.js"
+  ]
+}
