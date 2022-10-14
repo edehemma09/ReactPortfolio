@@ -2,22 +2,22 @@ import React, { useState } from 'react';
 
 
 //import images
-import Vmarine from "../../img/Vmarine.jpg";
-import aguaDeLuz from "../../img/aguaDeLuz.png";
+import Madonna from "../../img/orphanage.png";
+import Haulage from "../../img/haulage.png";
 import todo from "../../img/todolist.png";
 
 export default function ProjectList() {
 
     const [projects] = useState([
         {
-            name: "vmarine",
-            image: Vmarine,
-            button: "vmarine"
+            name: "Madonna ElleGrazie",
+            image: Madonna,
+            button: "View More"
         },
         {
-            name: "agualuz",
-            image: aguaDeLuz,
-            button: "agua"
+            name: "Turkhaulage",
+            image: Haulage,
+            button: "View More"
         },
         {
             name: "todolist",

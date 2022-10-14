@@ -42,6 +42,7 @@ export default function ContactForm() {
                     </div>
                 </div>
             </div>
+            <br/>
             <div className="row text-md-right text-sm-center">
                 <div className="col-12 col-sm-12 col-md-6 mx-auto">
                     <button

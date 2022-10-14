@@ -1,8 +1,8 @@
 import React, {useState} from "react";
 
 //import images
-import Vmarine from "../../img/Vmarine.jpg";
-import aguaDeLuz from "../../img/aguaDeLuz.png";
+import orphanage from "../../img/orphanage.png";
+import Haulage from "../../img/haulage.png";
 import todo from "../../img/todolist.png";
 
 
@@ -13,24 +13,23 @@ export default function HiddenModals() {
 
     const [projects, setProjects] = useState([
         {
-            name: "vmarine",
-            image: Vmarine,
+            name: "Orphanage Website",
+            image: orphanage,
             status: "View Live Demo",
             ref:"./",
             description: [
-                "Prototype marine web-application to provide information about progress of services and prices.",
-                "Designed with HTML5, CSS3, Bootstrap, Webpack, Wordpress, and ReactJS.",
-                "ba;lasdjkpasj kl;djaslkjdl kasl;d l;asd ."
+                "Designed with HTML5, CSS3, Bootstrap, Webpack, Wordpress.",
+               
             ]
         },
         {
-            name: "agualuz",
-            image: aguaDeLuz,
+            name: "Haulage",
+            image: Haulage,
             status: "View Live Demo",
-            ref: "./AguaDeLuz/index.html",
+            ref: "./",
             description: [
-                "Marine web-application to provide information about progress of services and prices.",
-                "Designed with HTML5, CSS3, Bootstrap, Webpack, Wordpress, and ReactJS."
+                "Turkhaulage is a logistics webapp for Dropshipping Company.",
+                "Designed with HTML5, CSS3, Bootstrap, Wordpress."
             ]
         },
         {
