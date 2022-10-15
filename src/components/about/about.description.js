@@ -21,7 +21,8 @@ export default function AboutDescription(props) {
                 />
                 <p className="mytext pt-3">
                     I am a tech savvy and am passionate about using exploiting Javascript and other technology <br/>
-                     to create awesome user experiences.
+                     to create awesome user experiences.I have 5+ experience as CMS developer and 3+ years as a Javascript framework web developer.
+                    
                 </p>
             </div>
 
